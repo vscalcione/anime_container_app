@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'anime_container.dart';
+import 'container/anime_container.dart';
 import 'package:flutter/services.dart';
 import 'dart:ui' as ui;
 
