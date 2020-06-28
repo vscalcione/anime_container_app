@@ -1,4 +1,4 @@
-# anime_container_app
+# anime_list_flutter_app
 
 A new Flutter project.
 
