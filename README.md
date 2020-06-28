@@ -16,4 +16,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Flutter App Screenshot
-![screenshot](./Screenshot_1593335814.png)
